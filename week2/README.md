@@ -1,4 +1,4 @@
-# Schedule 
+# Q1.Schedule 
 
 | **Day**       | **Time**      | **Subject**                |
 |---------------|---------------|----------------------------|
@@ -12,3 +12,13 @@
 |               | 10:30 - 12:30 | Computer Graphics           |
 | **Thursday**  | 8:00 - 10:00  | Artificial Intelligence     |
 |               | 10:30 - 12:30 | Web Development             |
+
+*********
+# Q2.gitCommands
+
+* git add .
+* git remote add deploy https://git.heroku.com/example-app.git
+* git log --oneline
+* git config --global user.name "mariammarwan"   git config --global user.email ""
+* git checkout development   git merge feature/chat
+* git add file.name   git commit --amend
